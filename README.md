@@ -67,4 +67,4 @@ The key factors that contribute to detecting fraudulent transactions include:
 - Temporal patterns, including the time of day and day of the week.
 
 ## Credits
- Durvank Gade for starting this project.
+ Durvank Gade(https://github.com/DurvankGade) for starting this project.
